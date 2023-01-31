@@ -1,0 +1,62 @@
+.text {             
+			 display: block;
+             margin : auto auto;
+			 border-radius: 4px;
+			 border: 1px solid gray;
+			 padding: 10px;
+}
+.button {
+             display: block;
+             margin : 5px  auto;
+			 border-radius: 4px;
+			 border: none;
+			 padding: 5px;
+        }
+
+.button:hover {
+	border: 1px solid gray;
+}
+
+.button:active {
+	border: 1px solid blue;
+}
+.ts2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 10px;
+}
+.link {
+	position: absolute;
+	right: 0;
+	top: 0;
+	padding: 10px;
+}
+
+.buttona {
+	background-color: #4c8cf7;
+	color: white;
+	padding: 10px;
+	border-style: ridge;
+	border: 2px;
+	border-radius: 2px;
+	font: 14px Arial, sans-serif, bold;
+}
+
+.buttona:hover {
+    background-color: #4185f3;
+	border: 1px solid black;
+}
+.buttona:active {
+	background-color: #4185f3;
+	border: 2px solid black;
+}
+.ls1{
+	font: 12px Arial, sans-serif;
+}
+.ls2{
+	font: 12px Courier New, monospace, bold;
+}
+.space{
+	margin: 5px;
+}
